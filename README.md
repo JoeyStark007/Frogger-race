@@ -2,6 +2,7 @@
 Java code simulator a race between 2 frogs with different characteristics
 
 import java.util.Random;
+
 public class FroggerJoe
 {
   int maxJumps;
